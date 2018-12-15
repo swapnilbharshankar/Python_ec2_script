@@ -1,6 +1,6 @@
 import boto3
-Access_Key = 'AKIAJMAIN7AIQP3I3OEA'
-Secret_key = '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'
+Access_Key = 'AKIAJMAIXXXXXXXXXXXXXXXXXXXX'
+Secret_key = 'TaMXD4AD+bVpjXXXXXXXXXXXXXXXXXXXXXX'
 
 client = boto3.client('ec2','us-east-1',aws_access_key_id=Access_Key,aws_secret_access_key=Secret_key)
 
